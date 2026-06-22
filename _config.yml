@@ -5,3 +5,5 @@ description: My GitHub Pages Blog
 baseurl: ""
 
 theme: minima
+feed:
+  path: false
