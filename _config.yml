@@ -4,4 +4,4 @@ description: To Infinity
 
 baseurl: ""
 
-theme: minima
+theme: jekyll-theme-minimal
