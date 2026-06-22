@@ -1,0 +1,7 @@
+title: semiclassic blog
+name: semiclassic
+description: My GitHub Pages Blog
+
+baseurl: ""
+
+theme: minimal-mistakes-jekyll
